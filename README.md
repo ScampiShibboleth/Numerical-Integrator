@@ -3,7 +3,7 @@ Numerical integration calculator that integrates a function with a given domain.
 
 # Consider the following:
 * This file **REQUIRES** the use of Lewis Van Winkle's (@codeplea) [TinyExpr](https://github.com/codeplea/tinyexpr) repo
-* For convenience, I have included copies Lewis's source code (tinyexpr.c and tinyexpr.h)
+* For convenience, I have included copies of Van Winkles's source code (tinyexpr.c and tinyexpr.h)
 * This calculator _only_ accepts single variable expressions in x (i.e. y^2 is an error, x^2 is not, x^2+5\*y is an error, x^2+5\*x is not) 
 * You may either enter your inputs in the command line or as standard input
 * For command line, the order will be in the form of "./executable expression lower bound upper bound <# of subsections>"
