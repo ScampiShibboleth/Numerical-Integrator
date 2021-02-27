@@ -1,5 +1,5 @@
 # Numerical-Integrator
-Numerical integration calculator that integrates a function with a given domain. Uses trapezoidal and Simpson's.
+Numerical integration calculator that integrates a function with a given domain, currently uses trapezoidal and Simpson's.
 
 # Consider the following:
 * This file **REQUIRES** the use of Lewis Van Winkle's (@codeplea) [TinyExpr](https://github.com/codeplea/tinyexpr) repo
